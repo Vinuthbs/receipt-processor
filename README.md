@@ -1,4 +1,4 @@
-# receipt-processor
+# Receipt-processor
 This project is a web service implemented in Go (Golang) that processes retail receipts and calculates points based on specific criteria. The service provides two endpoints as specified in the API documentation: one for processing receipts and another for retrieving points for a processed receipt.
 
 # Description
